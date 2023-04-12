@@ -1,6 +1,12 @@
 # ChatGPT_Evaluation_Prompts
 Collect ChatGPT prompts for NLG evaluation
 
+## Prompt for ChatGPT to generate the prompts for each task
+provide five concise prompts or templates that can make you deal with the [x] task
+
+### Examples
+provide five concise prompts or templates that can make you deal with the sentiment analysis task
+
 
 ## Prompts are based on one-to-five stars ranking
 """ Score the following [task-ins] with respect to [aspect] with one to five stars, where one star means “[ant-aspect]” and five stars means “perfect [aspect]”. Note that [aspect] measures [aspect-ins].
