@@ -7,6 +7,8 @@ provide five concise prompts or templates that can make you deal with the [x] ta
 ### Examples
 provide five concise prompts or templates that can make you deal with the sentiment analysis task
 
+Please give me three concise prompts for eliciting your ability to perform Aspect-Based Sentiment Analysis (i.e., extract the aspect terms and sentiment
+polarity). There is no need to give examples, and do not limit the prompts to a specific product or domain.
 
 ## Prompts are based on one-to-five stars ranking
 """ Score the following [task-ins] with respect to [aspect] with one to five stars, where one star means “[ant-aspect]” and five stars means “perfect [aspect]”. Note that [aspect] measures [aspect-ins].
